@@ -13,7 +13,7 @@
 
 3. В каталог SOURCE помещаем архив с исходным кодом (пример):
 
-        wget wget http://download.osgeo.org/mapserver/mapserver-6.4.1.tar.gz 
+        wget http://download.osgeo.org/mapserver/mapserver-6.4.1.tar.gz 
 
 4. В каталог SPECS помещаем spec-файл. Данный файл можно попробовать найти
    в Сети и адаптировать его под себя (наиболее трудозатратный этап):
