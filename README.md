@@ -27,5 +27,11 @@
 6. Переходим в каталог RPMS/x86_64 и устанавливаем пакет:
 
         rpm -ivh mapserver-6.4.1-0.el6.x86_64.rpm
+
+Замечания
+---------
         
-spec-файл будет находиться внутри *.src.rpm.
+* spec-файлы находятся внутри *.src.rpm
+* При сборке использовалась библиотека Boost весрии 1.55 из репозитория [http://repo.enetres.net/](http://repo.enetres.net/). Данная библиотека использована при сборке Mapnik и CGAL (используется для pgRouting).
+* При сборке использовался PostgreSQL 9.3 из [этого](http://yum.postgresql.org/9.3/redhat/rhel-6-x86_64/pgdg-centos93-9.3-1.noarch.rpm) репозитория, [подробнее](http://wiki.postgresql.org/wiki/YUM_Installation).
+* При сборке использовался PostGIS 2.1, [подробнее](http://trac.osgeo.org/postgis/wiki/UsersWikiPostGIS21CentOS6pgdg)
