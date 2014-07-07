@@ -28,7 +28,7 @@
 
         rpm -ivh mapserver-6.4.1-0.el6.x86_64.rpm
 
-7. Готовые пакеты можно организовать в репозиторий, [инструкция](http://wiki.centos.org/HowTos/CreateLocalRepos)
+7. Готовые пакеты можно организовать в репозиторий, [подробнее](http://wiki.centos.org/HowTos/CreateLocalRepos)
 
 Замечания
 ---------
