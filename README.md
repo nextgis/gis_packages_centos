@@ -1,4 +1,4 @@
-Pre-built packages of various GIS software for CentOS
+Pre-built packages of various GIS software for CentOS 6
 ======================
 
 List of packages:
