@@ -13,6 +13,7 @@ List of packages:
 * Mapserver-python 6.4.1
 * osm2pgsql 0.84.0
 * pgRouting 2.0.0
+* pgrouting_94-2.1.0
 * renderd gitc7131e52a0
 
 [Building packages and using this repo](https://github.com/nextgis/gis_packages_centos/wiki/Building-packages-EN)
