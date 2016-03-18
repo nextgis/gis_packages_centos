@@ -20,3 +20,9 @@ List of packages:
 [Building packages and using this repo](https://github.com/nextgis/gis_packages_centos/wiki/Building-packages-EN)
 
 [Сборка пакетов и использование этого репозитория](https://github.com/nextgis/gis_packages_centos/wiki/Building-packages-RU)
+
+Commercial support
+----------
+Need to fix a bug or add a feature or add a package? We provide custom development and support for this software. [Contact us](http://nextgis.ru/en/contact/) to discuss options!
+
+[![http://nextgis.com](http://nextgis.ru/img/nextgis.png)](http://nextgis.com)
