@@ -21,6 +21,10 @@ List of packages:
 
 [Сборка пакетов и использование этого репозитория](https://github.com/nextgis/gis_packages_centos/wiki/Building-packages-RU)
 
+License
+----------
+See appropriate licenses for each package.
+
 Commercial support
 ----------
 Need to fix a bug or add a feature or add a package? We provide custom development and support for this software. [Contact us](http://nextgis.ru/en/contact/) to discuss options!
